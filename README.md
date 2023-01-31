@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pidus bhusal
-- - 📫 How to reach me https://pidus.net/
+- ✒️ I am a Ui Ux Designer who also likes to code🧑‍💻
+-  📫 How to reach me https://pidus.net/
 
 <!---
 pidusbhusal/pidusbhusal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
